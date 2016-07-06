@@ -1,2 +1,2 @@
-# Homework-2.github.io
+# Homework-2
 Домашнее задание по модулю 2 (HTML)
